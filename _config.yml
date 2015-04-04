@@ -1,4 +1,4 @@
-baseurl: /starter
+baseurl: /comic-timeline
 permalink: pretty
 markdown: rdiscount
 prose:
